@@ -1,4 +1,5 @@
 # 📱 Testtora
+
 ### Discover. Review. Test. Improve.
 
 **Platform komunitas open-source untuk menemukan, mereview, menguji, dan menyempurnakan aplikasi mobile — bersama-sama.**
@@ -51,27 +52,6 @@ Kami membangun ruang komunitas tempat:
 - **Database:** PostgreSQL
 - **Auth:** JWT / OAuth
 - **Deployment:** Docker + CI/CD (GitHub Actions)
-
----
-
-## 🚀 Quick Start
-
-```bash
-# Clone repository
-git clone https://github.com/testtora/testtora.git
-cd testtora
-
-# Install dependencies
-npm install
-
-# Setup environment variables
-cp .env.example .env
-
-# Jalankan project
-npm run dev
-```
-
-Buka `http://localhost:3000` dan mulai eksplorasi 🎉
 
 ---
 
