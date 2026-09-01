@@ -80,21 +80,9 @@ Buka `http://localhost:3000` dan mulai eksplorasi 🎉
 
 ## 🤝 Cara Berkontribusi
 
-Testtora tumbuh berkat kontributor seperti kamu! Ada banyak cara untuk terlibat:
+Testtora tumbuh berkat kontributor seperti kamu — baik lewat kode, laporan bug, ide fitur, dokumentasi, maupun jadi tester aplikasi di platform.
 
-1. 🍴 **Fork** repository ini
-2. 🌱 Buat branch baru (`git checkout -b fitur/nama-fitur`)
-3. 💻 Lakukan perubahan & commit (`git commit -m 'feat: tambah fitur X'`)
-4. 📤 Push ke branch kamu (`git push origin fitur/nama-fitur`)
-5. 🔁 Buka **Pull Request**
-
-Baca [CONTRIBUTING.md](CONTRIBUTING.md) untuk panduan lengkap sebelum mulai.
-
-Nggak bisa coding? Kamu tetap bisa bantu lewat:
-- 🐞 Melaporkan bug
-- 💡 Mengusulkan ide fitur
-- 📝 Memperbaiki dokumentasi
-- 🧪 Ikut jadi beta tester aplikasi di platform
+📖 Panduan lengkap alur kontribusi (fork, branch, commit convention, PR checklist, dll) ada di **[CONTRIBUTING.md](CONTRIBUTING.md)** — baca dulu sebelum mulai ya!
 
 ---
 
