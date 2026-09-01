@@ -1,7 +1,4 @@
-
-
 # 📱 Testtora
-<div align="center">
 ### Discover. Review. Test. Improve.
 
 **Platform komunitas open-source untuk menemukan, mereview, menguji, dan menyempurnakan aplikasi mobile — bersama-sama.**
